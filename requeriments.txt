@@ -1,0 +1,19 @@
+#requeriments.txt
+
+ 
+#import requests
+#pip install requests
+requests==2.31.0
+
+
+#import base64
+#pip install  pybase64
+pybase64==1.3.2
+
+#import json
+#pip install jsonlib
+jsonlib==1.6.1
+
+ 
+
+
